@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.polo
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client-test, jackson-databind, java, java-application, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, netty-server, openapi, properties, readme, shade, swagger-ui]
